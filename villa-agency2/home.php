@@ -266,5 +266,5 @@
       </div>
     </div>
   </div>
-<?php include "./sections/properties.php"; ?> 
-<?php include "./sections/contact.php"; ?>
+<?php include "properties.php"; ?> 
+<?php include "contact.php"; ?>

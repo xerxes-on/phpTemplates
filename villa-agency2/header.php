@@ -58,11 +58,11 @@
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
-                      <li><a href="?home" class="active">Home</a></li>
-                      <li><a href="?properties">Properties</a></li>
-                      <li><a href="?property-details">Property Details</a></li>
-                      <li><a href="?contact">Contact Us</a></li>
-                      <li><a href="?contact"><i class="fa fa-calendar"></i> Schedule a visit</a></li>
+                      <li><a href="?page=home" class="active">Home</a></li>
+                      <li><a href="?page=properties">Properties</a></li>
+                      <li><a href="?page=property-details">Property-details</a></li>
+                      <li><a href="?page=contact">Contact Us</a></li>
+                      <li><a href="?page=contact"><i class="fa fa-calendar"></i> Schedule a visit</a></li>
                   </ul>   
                     <a class='menu-trigger'>
                         <span>Menu</span>
