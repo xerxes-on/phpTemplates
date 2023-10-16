@@ -1,8 +1,15 @@
 <?php
 // header
-    include './sections/header.php';
+    include 'header.php';
+
+    if(isset($_GET['page'])){
+       include $_GET["page"] . ".php";
+    }
+    else{
+       include 'home.php';
+    } 
 
 // footer
-    include './sections/footer.php';
+    include 'footer.php';
 ?>
 
