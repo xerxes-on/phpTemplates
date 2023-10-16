@@ -41,19 +41,19 @@
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav mr-auto">
                      <li class="nav-item">
-                        <a class="nav-link" href="?home">Home</a>
+                        <a class="nav-link" href="?page=home">Home</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="?about">About</a>
+                        <a class="nav-link" href="?page=about">About</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="?design">Design</a>
+                        <a class="nav-link" href="?page=design">Design</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="?shop">Shop</a>
+                        <a class="nav-link" href="?page=shop">Shop</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="?contact">Contact</a>
+                        <a class="nav-link" href="?page=contact">Contact</a>
                      </li>
                   </ul>
                   <form class="form-inline my-2 my-lg-0">

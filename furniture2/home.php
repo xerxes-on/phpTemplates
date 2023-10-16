@@ -60,7 +60,7 @@
       </div>
    </div>
 <!-- banner section end -->
-<?php include "./Sections/about.php"; ?>
-<?php include "./Sections/design.php"; ?>
-<?php include "./Sections/newsletter.php"; ?>
-<?php include "./Sections/contact.php"; ?>
+<?php include "about.php"; ?>
+<?php include "design.php"; ?>
+<?php include "shop.php"; ?>
+<?php include "contact.php"; ?>
