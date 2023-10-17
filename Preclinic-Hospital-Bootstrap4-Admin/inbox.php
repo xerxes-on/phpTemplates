@@ -109,7 +109,7 @@
 											</tr>
 										</thead>
 										<tbody>
-											<tr class="unread clickable-row" data-href="mail-view.html">
+											<tr class="unread clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -119,7 +119,7 @@
 												<td><i class="fa fa-paperclip"></i></td>
 												<td class="mail-date">13:14</td>
 											</tr>
-											<tr class="unread clickable-row" data-href="mail-view.html">
+											<tr class="unread clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -129,7 +129,7 @@
 												<td></td>
 												<td class="mail-date">8:42</td>
 											</tr>
-											<tr class="clickable-row" data-href="mail-view.html">
+											<tr class="clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -139,7 +139,7 @@
 												<td></td>
 												<td class="mail-date">30 Nov</td>
 											</tr>
-											<tr class="unread clickable-row" data-href="mail-view.html">
+											<tr class="unread clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -149,7 +149,7 @@
 												<td></td>
 												<td class="mail-date">18 Sep</td>
 											</tr>
-											<tr class="clickable-row" data-href="mail-view.html">
+											<tr class="clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -159,7 +159,7 @@
 												<td></td>
 												<td class="mail-date">21 Aug</td>
 											</tr>
-											<tr class="clickable-row" data-href="mail-view.html">
+											<tr class="clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -169,7 +169,7 @@
 												<td></td>
 												<td class="mail-date">1 Aug</td>
 											</tr>
-											<tr class="unread clickable-row" data-href="mail-view.html">
+											<tr class="unread clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -179,7 +179,7 @@
 												<td></td>
 												<td class="mail-date">Jul 13</td>
 											</tr>
-											<tr class="clickable-row" data-href="mail-view.html">
+											<tr class="clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -189,7 +189,7 @@
 												<td><i class="fa fa-paperclip"></i></td>
 												<td class="mail-date">May 14</td>
 											</tr>
-											<tr class="unread clickable-row" data-href="mail-view.html">
+											<tr class="unread clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -199,7 +199,7 @@
 												<td></td>
 												<td class="mail-date">11/11/16</td>
 											</tr>
-											<tr class="clickable-row" data-href="mail-view.html">
+											<tr class="clickable-row" data-href="?page=mail-view">
 												<td>
 													<input type="checkbox" class="checkmail">
 												</td>
@@ -224,7 +224,7 @@
                         <div class="drop-scroll msg-list-scroll" id="msg_list">
                             <ul class="list-box">
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">R</span>
@@ -239,7 +239,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item new-message">
                                             <div class="list-left">
                                                 <span class="avatar">J</span>
@@ -254,7 +254,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">T</span>
@@ -269,7 +269,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">M</span>
@@ -284,7 +284,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">C</span>
@@ -299,7 +299,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">D</span>
@@ -314,7 +314,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">B</span>
@@ -329,7 +329,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">R</span>
@@ -344,7 +344,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">C</span>
@@ -359,7 +359,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">M</span>
@@ -374,7 +374,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">J</span>
@@ -389,7 +389,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">L</span>
@@ -404,7 +404,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="chat.html">
+                                    <a href="?page=chat">
                                         <div class="list-item">
                                             <div class="list-left">
                                                 <span class="avatar">T</span>
@@ -421,7 +421,7 @@
                             </ul>
                         </div>
                         <div class="topnav-dropdown-footer">
-                            <a href="chat.html">See all messages</a>
+                            <a href="?page=chat">See all messages</a>
                         </div>
                     </div>
                 </div>

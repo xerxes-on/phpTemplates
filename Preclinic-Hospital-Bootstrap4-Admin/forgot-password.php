@@ -24,7 +24,7 @@
                 <div class="account-box">
                     <form class="form-signin" action="#">
 						<div class="account-logo">
-                            <a href="index-2.html"><img src="assets/img/logo-dark.png" alt=""></a>
+                            <a href="?page=home"><img src="assets/img/logo-dark.png" alt=""></a>
                         </div>
                         <div class="form-group">
                             <label>Enter Your Email</label>
@@ -34,7 +34,7 @@
                             <button class="btn btn-primary account-btn" type="submit">Reset Password</button>
                         </div>
                         <div class="text-center register-link">
-                            <a href="login.html">Back to Login</a>
+                            <a href="?page=login">Back to Login</a>
                         </div>
                     </form>
                 </div>

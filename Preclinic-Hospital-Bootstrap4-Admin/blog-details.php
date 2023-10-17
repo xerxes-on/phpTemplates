@@ -211,52 +211,52 @@
                             <ul class="latest-posts">
                                 <li>
                                     <div class="post-thumb">
-                                        <a href="blog-details.html">
+                                        <a href="?page=blog-details">
                                             <img class="img-fluid" src="assets/img/blog/blog-thumb-01.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="post-info">
                                         <h4>
-											<a href="blog-details.html">Lorem ipsum dolor sit amet consectetur</a>
+											<a href="?page=blog-details">Lorem ipsum dolor sit amet consectetur</a>
 										</h4>
                                         <p><i aria-hidden="true" class="fa fa-calendar"></i> December 6, 2017</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="post-thumb">
-                                        <a href="blog-details.html">
+                                        <a href="?page=blog-details">
                                             <img class="img-fluid" src="assets/img/blog/blog-thumb-02.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="post-info">
                                         <h4>
-											<a href="blog-details.html">Lorem ipsum dolor sit amet consectetur</a>
+											<a href="?page=blog-details">Lorem ipsum dolor sit amet consectetur</a>
 										</h4>
                                         <p><i aria-hidden="true" class="fa fa-calendar"></i> December 6, 2017</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="post-thumb">
-                                        <a href="blog-details.html">
+                                        <a href="?page=blog-details">
                                             <img class="img-fluid" src="assets/img/blog/blog-thumb-03.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="post-info">
                                         <h4>
-											<a href="blog-details.html">Lorem ipsum dolor sit amet consectetur</a>
+											<a href="?page=blog-details">Lorem ipsum dolor sit amet consectetur</a>
 										</h4>
                                         <p><i aria-hidden="true" class="fa fa-calendar"></i> December 6, 2017</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="post-thumb">
-                                        <a href="blog-details.html">
+                                        <a href="?page=blog-details">
                                             <img class="img-fluid" src="assets/img/blog/blog-thumb-04.jpg" alt="">
                                         </a>
                                     </div>
                                     <div class="post-info">
                                         <h4>
-											<a href="blog-details.html">Lorem ipsum dolor sit amet consectetur</a>
+											<a href="?page=blog-details">Lorem ipsum dolor sit amet consectetur</a>
 										</h4>
                                         <p><i aria-hidden="true" class="fa fa-calendar"></i> December 6, 2017</p>
                                     </div>
@@ -300,7 +300,7 @@
                     <div class="drop-scroll msg-list-scroll" id="msg_list">
                         <ul class="list-box">
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -315,7 +315,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item new-message">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -330,7 +330,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -345,7 +345,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -360,7 +360,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -375,7 +375,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">D</span>
@@ -390,7 +390,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">B</span>
@@ -405,7 +405,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -420,7 +420,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -435,7 +435,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -450,7 +450,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -465,7 +465,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">L</span>
@@ -480,7 +480,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -497,7 +497,7 @@
                         </ul>
                     </div>
                     <div class="topnav-dropdown-footer">
-                        <a href="chat.html">See all messages</a>
+                        <a href="?page=chat">See all messages</a>
                     </div>
                 </div>
             </div>

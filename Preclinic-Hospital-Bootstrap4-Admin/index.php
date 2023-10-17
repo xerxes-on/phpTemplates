@@ -1,12 +1,12 @@
 <?php 
-    include "header.php";
+    include "layouts/header.php";
 
-    include "sidebar.php";
-    
+    include "layouts/sidebar.php";
+
         if(isset($_GET['page'])){
             include $_GET['page'] . ".php";
         }else{
             include "home.php";
         }
 
-    include "footer.php"; 
+    include "layouts/footer.php"; 

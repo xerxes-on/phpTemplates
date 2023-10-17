@@ -93,7 +93,7 @@
 					<div class="col-12 col-md-6 col-lg-8 col-xl-8">
 						<div class="card">
 							<div class="card-header">
-								<h4 class="card-title d-inline-block">Upcoming Appointments</h4> <a href="appointments.html" class="btn btn-primary float-right">View all</a>
+								<h4 class="card-title d-inline-block">Upcoming Appointments</h4> <a href="?page=appointments" class="btn btn-primary float-right">View all</a>
 							</div>
 							<div class="card-body p-0">
 								<div class="table-responsive">
@@ -109,8 +109,8 @@
 										<tbody>
 											<tr>
 												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
+													<a class="avatar" href="?page=profile">B</a>
+													<h2><a href="?page=profile">Bernardo Galaviz <span>New York, USA</span></a></h2>
 												</td>                 
 												<td>
 													<h5 class="time-title p-0">Appointment With</h5>
@@ -121,13 +121,13 @@
 													<p>7.00 PM</p>
 												</td>
 												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
+													<a href="?page=appointments" class="btn btn-outline-primary take-btn">Take up</a>
 												</td>
 											</tr>
 											<tr>
 												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
+													<a class="avatar" href="?page=profile">B</a>
+													<h2><a href="?page=profile">Bernardo Galaviz <span>New York, USA</span></a></h2>
 												</td>                 
 												<td>
 													<h5 class="time-title p-0">Appointment With</h5>
@@ -138,13 +138,13 @@
 													<p>7.00 PM</p>
 												</td>
 												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
+													<a href="?page=appointments" class="btn btn-outline-primary take-btn">Take up</a>
 												</td>
 											</tr>
 											<tr>
 												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
+													<a class="avatar" href="?page=profile">B</a>
+													<h2><a href="?page=profile">Bernardo Galaviz <span>New York, USA</span></a></h2>
 												</td>                 
 												<td>
 													<h5 class="time-title p-0">Appointment With</h5>
@@ -155,13 +155,13 @@
 													<p>7.00 PM</p>
 												</td>
 												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
+													<a href="?page=appointments" class="btn btn-outline-primary take-btn">Take up</a>
 												</td>
 											</tr>
 											<tr>
 												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
+													<a class="avatar" href="?page=profile">B</a>
+													<h2><a href="?page=profile">Bernardo Galaviz <span>New York, USA</span></a></h2>
 												</td>                 
 												<td>
 													<h5 class="time-title p-0">Appointment With</h5>
@@ -172,13 +172,13 @@
 													<p>7.00 PM</p>
 												</td>
 												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
+													<a href="?page=appointments" class="btn btn-outline-primary take-btn">Take up</a>
 												</td>
 											</tr>
 											<tr>
 												<td style="min-width: 200px;">
-													<a class="avatar" href="profile.html">B</a>
-													<h2><a href="profile.html">Bernardo Galaviz <span>New York, USA</span></a></h2>
+													<a class="avatar" href="?page=profile">B</a>
+													<h2><a href="?page=profile">Bernardo Galaviz <span>New York, USA</span></a></h2>
 												</td>                 
 												<td>
 													<h5 class="time-title p-0">Appointment With</h5>
@@ -189,7 +189,7 @@
 													<p>7.00 PM</p>
 												</td>
 												<td class="text-right">
-													<a href="appointments.html" class="btn btn-outline-primary take-btn">Take up</a>
+													<a href="?page=appointments" class="btn btn-outline-primary take-btn">Take up</a>
 												</td>
 											</tr>
 										</tbody>
@@ -208,7 +208,7 @@
                                     <li>
                                         <div class="contact-cont">
                                             <div class="float-left user-img m-r-10">
-                                                <a href="profile.html" title="John Doe"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
+                                                <a href="?page=profile" title="John Doe"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
                                             </div>
                                             <div class="contact-info">
                                                 <span class="contact-name text-ellipsis">John Doe</span>
@@ -219,7 +219,7 @@
                                     <li>
                                         <div class="contact-cont">
                                             <div class="float-left user-img m-r-10">
-                                                <a href="profile.html" title="Richard Miles"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status offline"></span></a>
+                                                <a href="?page=profile" title="Richard Miles"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status offline"></span></a>
                                             </div>
                                             <div class="contact-info">
                                                 <span class="contact-name text-ellipsis">Richard Miles</span>
@@ -230,7 +230,7 @@
                                     <li>
                                         <div class="contact-cont">
                                             <div class="float-left user-img m-r-10">
-                                                <a href="profile.html" title="John Doe"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status away"></span></a>
+                                                <a href="?page=profile" title="John Doe"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status away"></span></a>
                                             </div>
                                             <div class="contact-info">
                                                 <span class="contact-name text-ellipsis">John Doe</span>
@@ -241,7 +241,7 @@
                                     <li>
                                         <div class="contact-cont">
                                             <div class="float-left user-img m-r-10">
-                                                <a href="profile.html" title="Richard Miles"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
+                                                <a href="?page=profile" title="Richard Miles"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
                                             </div>
                                             <div class="contact-info">
                                                 <span class="contact-name text-ellipsis">Richard Miles</span>
@@ -252,7 +252,7 @@
                                     <li>
                                         <div class="contact-cont">
                                             <div class="float-left user-img m-r-10">
-                                                <a href="profile.html" title="John Doe"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status offline"></span></a>
+                                                <a href="?page=profile" title="John Doe"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status offline"></span></a>
                                             </div>
                                             <div class="contact-info">
                                                 <span class="contact-name text-ellipsis">John Doe</span>
@@ -263,7 +263,7 @@
                                     <li>
                                         <div class="contact-cont">
                                             <div class="float-left user-img m-r-10">
-                                                <a href="profile.html" title="Richard Miles"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status away"></span></a>
+                                                <a href="?page=profile" title="Richard Miles"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status away"></span></a>
                                             </div>
                                             <div class="contact-info">
                                                 <span class="contact-name text-ellipsis">Richard Miles</span>
@@ -405,7 +405,7 @@
                     <div class="drop-scroll msg-list-scroll" id="msg_list">
                         <ul class="list-box">
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -420,7 +420,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item new-message">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -435,7 +435,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -450,7 +450,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -465,7 +465,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -480,7 +480,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">D</span>
@@ -495,7 +495,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">B</span>
@@ -510,7 +510,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -525,7 +525,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -540,7 +540,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -555,7 +555,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -570,7 +570,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">L</span>
@@ -585,7 +585,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -602,7 +602,7 @@
                         </ul>
                     </div>
                     <div class="topnav-dropdown-footer">
-                        <a href="chat.html">See all messages</a>
+                        <a href="?page=chat">See all messages</a>
                     </div>
                 </div>
             </div>

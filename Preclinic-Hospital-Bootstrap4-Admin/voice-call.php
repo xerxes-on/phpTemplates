@@ -25,10 +25,10 @@
 								<div class="navbar">
                                     <div class="user-details mr-auto">
                                         <div class="float-left user-img m-r-10">
-                                            <a href="profile.html" title="Jennifer Robinson"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
+                                            <a href="?page=profile" title="Jennifer Robinson"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
                                         </div>
                                         <div class="user-info float-left">
-                                            <a href="profile.html" title="Jennifer Robinson"><span class="font-bold">Jennifer Robinson</span></a>
+                                            <a href="?page=profile" title="Jennifer Robinson"><span class="font-bold">Jennifer Robinson</span></a>
                                             <span class="last-seen">Online</span>
                                         </div>
                                     </div>
@@ -118,7 +118,7 @@
                                             <div class="chats">
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -140,7 +140,7 @@
                                                 </div>
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -164,7 +164,7 @@
                                                 </div>
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -186,7 +186,7 @@
                                                 </div>
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -219,7 +219,7 @@
                                                         <div class="chats">
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -235,7 +235,7 @@
                                                             </div>
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -257,7 +257,7 @@
                                                             </div>
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="Jeffery Lalor" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -274,7 +274,7 @@
                                                             </div>
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="Jeffery Lalor" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -326,7 +326,7 @@
                                                         </div>
                                                         <h3 class="user-name m-t-10 mb-0">John Doe</h3>
                                                         <small class="text-muted">BMBS</small>
-                                                        <a href="edit-profile.html" class="btn btn-primary edit-btn"><i class="fa fa-pencil"></i></a>
+                                                        <a href="edit-?page=profile" class="btn btn-primary edit-btn"><i class="fa fa-pencil"></i></a>
                                                     </div>
                                                     <div class="chat-profile-info">
                                                         <ul class="user-det-list">
@@ -616,7 +616,7 @@
                     <div class="drop-scroll msg-list-scroll" id="msg_list">
                         <ul class="list-box">
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -631,7 +631,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item new-message">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -646,7 +646,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -661,7 +661,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -676,7 +676,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -691,7 +691,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">D</span>
@@ -706,7 +706,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">B</span>
@@ -721,7 +721,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -736,7 +736,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -751,7 +751,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -766,7 +766,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -781,7 +781,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">L</span>
@@ -796,7 +796,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -813,7 +813,7 @@
                         </ul>
                     </div>
                     <div class="topnav-dropdown-footer">
-                        <a href="chat.html">See all messages</a>
+                        <a href="?page=chat">See all messages</a>
                     </div>
                 </div>
             </div>

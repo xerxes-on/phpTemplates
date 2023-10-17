@@ -29,7 +29,7 @@
                     <input class="form-control" placeholder="Enter Password" type="password">
                 </div>
                 <div class="text-center">
-                    <a href="login.html">Sign in as a different user?</a>
+                    <a href="?page=login">Sign in as a different user?</a>
                 </div>
             </form>
         </div>

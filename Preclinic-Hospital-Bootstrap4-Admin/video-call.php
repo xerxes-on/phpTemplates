@@ -29,10 +29,10 @@
 								<div class="navbar">
                                     <div class="user-details mr-auto">
                                         <div class="float-left user-img m-r-10">
-                                            <a href="profile.html" title="Mike Litorus"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
+                                            <a href="?page=profile" title="Mike Litorus"><img src="assets/img/user.jpg" alt="" class="w-40 rounded-circle"><span class="status online"></span></a>
                                         </div>
                                         <div class="user-info float-left">
-                                            <a href="profile.html" title="Mike Litorus"><span class="font-bold">Mike Litorus</span></a>
+                                            <a href="?page=profile" title="Mike Litorus"><span class="font-bold">Mike Litorus</span></a>
                                             <span class="last-seen">Online</span>
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@
                                             <div class="chats">
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -135,7 +135,7 @@
                                                 </div>
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -159,7 +159,7 @@
                                                 </div>
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -181,7 +181,7 @@
                                                 </div>
                                                 <div class="chat chat-left">
                                                     <div class="chat-avatar">
-                                                        <a href="profile.html" class="avatar">
+                                                        <a href="?page=profile" class="avatar">
                                                             <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                         </a>
                                                     </div>
@@ -214,7 +214,7 @@
                                                         <div class="chats">
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -230,7 +230,7 @@
                                                             </div>
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="John Doe" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -252,7 +252,7 @@
                                                             </div>
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="Jeffery Lalor" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -269,7 +269,7 @@
                                                             </div>
                                                             <div class="chat chat-left">
                                                                 <div class="chat-avatar">
-                                                                    <a href="profile.html" class="avatar">
+                                                                    <a href="?page=profile" class="avatar">
                                                                         <img alt="Jeffery Lalor" src="assets/img/user.jpg" class="img-fluid rounded-circle">
                                                                     </a>
                                                                 </div>
@@ -321,7 +321,7 @@
                                                         </div>
                                                         <h3 class="user-name m-t-10 mb-0">John Doe</h3>
                                                         <small class="text-muted">MBBS, MD</small>
-                                                        <a href="edit-profile.html" class="btn btn-primary edit-btn"><i class="fa fa-pencil"></i></a>
+                                                        <a href="edit-?page=profile" class="btn btn-primary edit-btn"><i class="fa fa-pencil"></i></a>
                                                     </div>
                                                     <div class="chat-profile-info">
                                                         <ul class="user-det-list">

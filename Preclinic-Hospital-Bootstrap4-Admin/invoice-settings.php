@@ -21,7 +21,7 @@
     <div class="main-wrapper" id="wrapper">
         <div class="header">
 			<div class="header-left">
-				<a href="index-2.html" class="logo">
+				<a href="?page=home" class="logo">
 					<img src="assets/img/logo.png" width="35" height="35" alt="">
 				</a>
 			</div>
@@ -37,7 +37,7 @@
                         <div class="drop-scroll">
                             <ul class="notification-list">
                                 <li class="notification-message">
-                                    <a href="activities.html">
+                                    <a href="?page=activities">
                                         <div class="media">
 											<span class="avatar">
 												<img alt="John Doe" src="assets/img/user.jpg" class="img-fluid">
@@ -50,7 +50,7 @@
                                     </a>
                                 </li>
                                 <li class="notification-message">
-                                    <a href="activities.html">
+                                    <a href="?page=activities">
                                         <div class="media">
 											<span class="avatar">V</span>
 											<div class="media-body">
@@ -61,7 +61,7 @@
                                     </a>
                                 </li>
                                 <li class="notification-message">
-                                    <a href="activities.html">
+                                    <a href="?page=activities">
                                         <div class="media">
 											<span class="avatar">L</span>
 											<div class="media-body">
@@ -72,7 +72,7 @@
                                     </a>
                                 </li>
                                 <li class="notification-message">
-                                    <a href="activities.html">
+                                    <a href="?page=activities">
                                         <div class="media">
 											<span class="avatar">G</span>
 											<div class="media-body">
@@ -83,7 +83,7 @@
                                     </a>
                                 </li>
                                 <li class="notification-message">
-                                    <a href="activities.html">
+                                    <a href="?page=activities">
                                         <div class="media">
 											<span class="avatar">V</span>
 											<div class="media-body">
@@ -96,7 +96,7 @@
                             </ul>
                         </div>
                         <div class="topnav-dropdown-footer">
-                            <a href="activities.html">View all Notifications</a>
+                            <a href="?page=activities">View all Notifications</a>
                         </div>
                     </div>
                 </li>
@@ -110,20 +110,20 @@
                         <span>Admin</span>
                     </a>
 					<div class="dropdown-menu">
-						<a class="dropdown-item" href="profile.html">My Profile</a>
-						<a class="dropdown-item" href="edit-profile.html">Edit Profile</a>
-						<a class="dropdown-item" href="settings.html">Settings</a>
-						<a class="dropdown-item" href="login.html">Logout</a>
+						<a class="dropdown-item" href="?page=profile">My Profile</a>
+						<a class="dropdown-item" href="edit-?page=profile">Edit Profile</a>
+						<a class="dropdown-item" href="?page=settings">Settings</a>
+						<a class="dropdown-item" href="?page=login">Logout</a>
 					</div>
                 </li>
             </ul>
             <div class="dropdown mobile-user-menu float-right">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-ellipsis-v"></i></a>
                 <div class="dropdown-menu dropdown-menu-right">
-                    <a class="dropdown-item" href="profile.html">My Profile</a>
-                    <a class="dropdown-item" href="edit-profile.html">Edit Profile</a>
-                    <a class="dropdown-item" href="settings.html">Settings</a>
-                    <a class="dropdown-item" href="login.html">Logout</a>
+                    <a class="dropdown-item" href="?page=profile">My Profile</a>
+                    <a class="dropdown-item" href="edit-?page=profile">Edit Profile</a>
+                    <a class="dropdown-item" href="?page=settings">Settings</a>
+                    <a class="dropdown-item" href="?page=login">Logout</a>
                 </div>
             </div>
         </div>
@@ -132,32 +132,32 @@
                 <div class="sidebar-menu">
                     <ul>
                         <li>
-                            <a href="index-2.html"><i class="fa fa-home back-icon"></i> <span>Back to Home</span></a>
+                            <a href="?page=home"><i class="fa fa-home back-icon"></i> <span>Back to Home</span></a>
                         </li>
                         <li class="menu-title">Settings</li>
                         <li>
-                            <a href="settings.html"><i class="fa fa-building"></i> <span>Company Settings</span></a>
+                            <a href="?page=settings"><i class="fa fa-building"></i> <span>Company Settings</span></a>
                         </li>
                         <li>
                             <a href="localization.html"><i class="fa fa-clock-o"></i> <span>Localization</span></a>
                         </li>
                         <li>
-                            <a href="theme-settings.html"><i class="fa fa-picture-o"></i> <span>Theme Settings</span></a>
+                            <a href="theme-?page=settings"><i class="fa fa-picture-o"></i> <span>Theme Settings</span></a>
                         </li>
                         <li>
                             <a href="roles-permissions.html"><i class="fa fa-key"></i> <span>Roles & Permissions</span></a>
                         </li>
                         <li>
-                            <a href="email-settings.html"><i class="fa fa-envelope-o"></i> <span>Email Settings</span></a>
+                            <a href="email-?page=settings"><i class="fa fa-envelope-o"></i> <span>Email Settings</span></a>
                         </li>
                         <li class="active">
-                            <a href="invoice-settings.html"><i class="fa fa-pencil-square-o"></i> <span>Invoice Settings</span></a>
+                            <a href="invoice-?page=settings"><i class="fa fa-pencil-square-o"></i> <span>Invoice Settings</span></a>
                         </li>
                         <li>
-                            <a href="salary-settings.html"><i class="fa fa-money"></i> <span>Salary Settings</span></a>
+                            <a href="salary-?page=settings"><i class="fa fa-money"></i> <span>Salary Settings</span></a>
                         </li>
                         <li>
-                            <a href="notifications-settings.html"><i class="fa fa-globe"></i> <span>Notifications</span></a>
+                            <a href="notifications-?page=settings"><i class="fa fa-globe"></i> <span>Notifications</span></a>
                         </li>
                         <li>
                             <a href="change-password.html"><i class="fa fa-lock"></i> <span>Change Password</span></a>
@@ -206,7 +206,7 @@
                     <div class="drop-scroll msg-list-scroll" id="msg_list">
                         <ul class="list-box">
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -221,7 +221,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item new-message">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -236,7 +236,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -251,7 +251,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -266,7 +266,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -281,7 +281,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">D</span>
@@ -296,7 +296,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">B</span>
@@ -311,7 +311,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">R</span>
@@ -326,7 +326,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">C</span>
@@ -341,7 +341,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">M</span>
@@ -356,7 +356,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">J</span>
@@ -371,7 +371,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">L</span>
@@ -386,7 +386,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="chat.html">
+                                <a href="?page=chat">
                                     <div class="list-item">
                                         <div class="list-left">
                                             <span class="avatar">T</span>
@@ -403,7 +403,7 @@
                         </ul>
                     </div>
                     <div class="topnav-dropdown-footer">
-                        <a href="chat.html">See all messages</a>
+                        <a href="?page=chat">See all messages</a>
                     </div>
                 </div>
             </div>
