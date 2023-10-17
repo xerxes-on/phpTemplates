@@ -4,9 +4,9 @@
     include "layouts/sidebar.php";
 
         if(isset($_GET['page'])){
-            include $_GET['page'] . ".php";
+            include "./pages/".$_GET['page'] . ".php";
         }else{
-            include "home.php";
+            include "./pages/home.php";
         }
 
     include "layouts/footer.php"; 
