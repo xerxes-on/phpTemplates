@@ -9,14 +9,14 @@ $users = [
     $user2 = [
         "id"=>222,
         "email"=>"google3@icloud.com",
-        "username"=>"aaa",
-        "password"=>"aaa"
+        "username"=>"Alicia",
+        "password"=>"alicia3"
     ],
     $user3 = [
         "id"=>90,
         "email"=>"anyone34@gmail.com",
         "username"=>"adam34",
-        "password"=>"Adam"
+        "password"=>"adam"
     ],
     $user4 = [
         "id"=>12,
