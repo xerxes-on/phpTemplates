@@ -8,6 +8,8 @@
         foreach($users as $user ){
             if($user["username"] == $username && $user["password"] == $password){
               include "mainPage.php";
+              setcookie("username", $username);
+              setcookie("password", $password);
               exit();
             }
             $c++;
