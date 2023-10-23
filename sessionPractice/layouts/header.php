@@ -71,7 +71,7 @@
                 
             </span>
             </a>
-            <a href="?logout" class="call_btn">
+            <a href="./layouts/logout.php" class="call_btn">
             Log out
             </a>
         </nav>

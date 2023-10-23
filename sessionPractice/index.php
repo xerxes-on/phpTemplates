@@ -16,12 +16,6 @@ if(isset($_GET["page"]))
 {
   include "./sections/" . $_GET["page"] . ".php";
 }
-else if(isset($_GET["logout"])){
-    session_start();
-    session_unset();
-    session_destroy();
-    header("location: ./index.php");
-}
 else{
   include "./sections/home.php";
 }
