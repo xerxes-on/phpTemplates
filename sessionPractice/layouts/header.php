@@ -67,11 +67,12 @@
             </div>
             <a class="navbar-brand" href="?page=home">
             <span>
-                 Hello      <i style="color: #94B0DA; text-decoration: none;"> <?=$_SESSION["username"] ?></i>
+                 Hello      <i style="color: #94B0DA; text-decoration: none;"> <?php
+                  echo $_SESSION["username"] ?></i>
                 
             </span>
             </a>
-            <a href="./layouts/logout.php" class="call_btn">
+            <a href="./logout.php" class="call_btn">
             Log out
             </a>
         </nav>

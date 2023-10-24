@@ -1,27 +1,31 @@
 <?php
 session_start();
 
-    if (isset($_POST['s1'])) {
-        $username = $_POST['username'];
-        $password = $_POST['password'];
+if(isset($_SESSION["login"])){
+    header("location:index.php");
+}
 
-        include "./sections/data.php";
+if (isset($_POST['s1'])) {
+    $username = $_POST['username'];
+    $password = $_POST['password'];
 
-        $c = 0;
-        foreach($users as $user ){
-            if($user["username"] == $username && $user["password"] == $password){
-                $_SESSION["username"] = $user["id"];
-                $_SESSION["login"] =true;
-                header("Location: ./index.php");
-            }
-            $c++;
+    include "./sections/data.php";
+
+    $c = 0;
+    foreach($users as $user ){
+        if($user["username"] == $username && $user["password"] == $password){
+            $_SESSION["username"] = $user["id"];
+            $_SESSION["login"] =true;
+            header("Location: ./index.php");
         }
-        if($c == count($users) ){
-            ?>
-            <p style="color: red;">Invalid Log in details try again!</p>
-            <?php
-        }
+        $c++;
     }
+    if($c == count($users) ){
+        ?>
+        <p style="color: red;">Invalid Log in details try again!</p>
+        <?php
+    }
+}
 ?>
 <!DOCTYPE html>
     <html lang="en" >
